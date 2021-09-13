@@ -1,0 +1,78 @@
+@media (max-width: 1199.98px){
+    
+}
+@media (max-width: 991.98px){
+ h1{
+     font-size: 40px;
+ }
+ header{
+     padding: 200px 0;
+ }
+ .pricing .col-xl-3{
+     padding-bottom: 30px;
+ }
+ textarea{
+     height: 200px;
+ }
+}
+@media (max-width: 767.98px){
+    h1{
+        font-size: 30px;
+        line-height: 50px;
+    }
+    header p{
+        max-width: 500px;
+    }
+    header{
+        padding: 100px 0;
+    }
+    .projects{
+        padding-top: 30px;
+    }
+    .line{
+        margin-bottom: 50px;
+    }
+    section{
+        padding-top: 50px;
+    }
+}
+@media (max-width: 575.98px){
+    header{
+        padding: 50px 0;
+    }
+    h1{
+        font-size: 26px;
+        line-height: 40px;
+    }
+    header a{
+        padding: 15px 40px;
+    }
+    .navbar-nav .nav-item{
+        width: 150px;
+        text-align: center;
+    }
+    .navbar-nav{
+        align-items: center;
+    }
+    section{
+        padding-top: 50px;
+    }
+    .subtitle{
+        padding: 0 10px;
+    }
+ 
+    .services .col-xl-4,
+    .line{
+        margin-bottom: 50px;
+    }
+    .pricing{
+        padding: 0;
+    }
+    .projects{
+        padding-top: 20px;
+    }
+    .contact{
+        padding-bottom: 50px;
+
+    }
+}
